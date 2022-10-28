@@ -1,3 +1,5 @@
 ceci est un texte
 hello from Ajaccio
 bonjour
+
+cette modif a été faite du coté du dev original (plus connus sous le nom de dev1)
