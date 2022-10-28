@@ -1,3 +1,6 @@
 ceci est un texte
 hello from Ajaccio
+bonjour
 au revoir
+
+
